@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+
+#carouseltext {
+    text-align: center;
+}
+
+aside {
+    padding-top: 30px;
+    float: left;
+    width: 20%;
+    padding-left: 100px;
+}
+
+main {
+    width: 80%;
+    float: right;
+}
